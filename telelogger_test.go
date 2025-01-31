@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/joho/godotenv"
-	"github.com/yohaiwiener/telelogger-golang"
+	"github.com/monkhai/telelogger-golang"
 )
 
 var (
