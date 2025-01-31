@@ -13,7 +13,7 @@ A lightweight, easy-to-use Telegram logging utility for Go applications.
 ## Installation
 
 ```bash
-go get github.com/yohaiwiener/telelogger-golang
+go get github.com/monkhai/telelogger-golang
 ```
 
 ## Quick Start
@@ -21,7 +21,7 @@ go get github.com/yohaiwiener/telelogger-golang
 ```go
 package main
 
-import "github.com/yohaiwiener/telelogger-golang"
+import "github.com/monkhai/telelogger-golang"
 
 func main() {
     logger := telelogger.New(telelogger.Config{
